@@ -6,4 +6,4 @@ No guaranted for this code, fell free for developing with this code.
 
 For more info visit http://www.hakkoblogs.com/2015/02/membuat-toko-online-sederhana-dengan.html#.VmisHNKLTDc
 
-For demo go to this link http://tokol.niqoweb.com
+For demo go to this link https://l200190078pwd.000webhostapp.com/
